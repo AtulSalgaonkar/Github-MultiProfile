@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHub Profiles</string>
+    <string name="user_profile_pic">user_profile_pic</string>
+    <string name="username">username</string>
+    <string name="profile_url">public repos</string>
+</resources>
